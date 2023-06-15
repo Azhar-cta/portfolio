@@ -152,7 +152,7 @@ class _MyHomeState extends State<MyHome> {
                     Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
                       children: [
-                        mySpec(Icons.android, 'Andoid'),
+                        mySpec(Icons.android, 'Andoid10'),
                         mySpec(Icons.window_sharp, 'Windows'),
                         mySpec(Icons.apple, 'Apple'),
                       ],
